@@ -27,11 +27,11 @@
     "preview": "echo \"Opening a preview on your browser now.\" && sleep 1 && open http://localhost:3000/#/",
     "site": "npm-run-all --parallel serve preview",
     "serve": "docsify serve docs",
-    "test": "echo 'Aborting: no tests found. (see https://github.com/dialex/start-testing/issues/70)' && exit 1"
+    "test": "echo 'Aborting: no tests found. (see https://github.com/rbaduman/start-testing/issues/70)' && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dialex/start-testing.git"
+    "url": "git+https://github.com/rbaduman/start-testing.git"
   },
   "devDependencies": {
     "markdown-spellcheck": "^1.3.1",
@@ -107,7 +107,7 @@
   "author": "Diogo Nunes <email@diogonunes.com> (https://diogonunes.com/)",
   "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
-    "url": "https://github.com/dialex/start-testing/issues"
+    "url": "https://github.com/rbaduman/start-testing/issues"
   },
-  "homepage": "https://github.com/dialex/start-testing"
+  "homepage": "https://github.com/rbaduman/start-testing"
 }

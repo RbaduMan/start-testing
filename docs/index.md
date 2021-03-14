@@ -42,4 +42,4 @@ During your testing, you will discover new information. [Taking notes](/toolbox/
 
 ---
 
-~~[TODO (Trello resources)](https://trello.com/c/IKgim0gn/217-%F0%9F%93%9A-study-plan)~~ / [GitHub repository](https://github.com/dialex/start-testing)
+~~[TODO (Trello resources)](https://trello.com/c/IKgim0gn/217-%F0%9F%93%9A-study-plan)~~ / [GitHub repository](https://github.com/rbaduman/start-testing)

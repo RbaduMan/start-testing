@@ -1,6 +1,6 @@
 # Playwright
 
-Review [here](https://github.com/dialex/start-testing/tree/main/docs/toolbox/framework/playwright.md).
+Review [here](https://github.com/rbaduman/start-testing/tree/main/docs/toolbox/framework/playwright.md).
 
 ## Commands
 

@@ -6,7 +6,7 @@
 
 ## Code
 
-Example of automation at [GitHub](https://github.com/dialex/start-testing/tree/main/code/framework/playwright).
+Example of automation at [GitHub](https://github.com/rbaduman/start-testing/tree/main/code/framework/playwright).
 
 ## Review
 

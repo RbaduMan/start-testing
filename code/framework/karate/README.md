@@ -1,6 +1,6 @@
 # Karate
 
-Review [here](https://github.com/dialex/start-testing/tree/main/docs/toolbox/framework/karate.md).
+Review [here](https://github.com/rbaduman/start-testing/tree/main/docs/toolbox/framework/karate.md).
 
 ## Commands
 
