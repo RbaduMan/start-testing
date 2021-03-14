@@ -3,15 +3,15 @@
 
 <ul style="text-align: center;">🚧 work in progress 🚧</ul>
 
-- [**Home**](/)
-- **Concepts**
-  - [Testing's purpose](/concepts/testing-purpose.md)
-  - [Testing is…](/concepts/what-testing-is.md)
-  - [Testing is not…](/concepts/what-testing-is-not.md)
-  - [Tester's responsibilities](/concepts/tester-responsibilities.md)
+- [**หน้าหลัก**](/)
+- **แนวคิด (Concept)**
+  - [จุดประสงค์ในการ Test](/concepts/testing-purpose.md)
+  - [การ Test คือ…](/concepts/what-testing-is.md)
+  - [การ Test ไม่ใช่…](/concepts/what-testing-is-not.md)
+  - [ความรับผิดชอบของ QA/Tester](/concepts/tester-responsibilities.md)
   - [Requirements](/concepts/requirements.md)
-  - [Testability](/concepts/testability.md)
-- **Toolbox**
+  - [ความสามารถในการทดสอบ (Testability)](/concepts/testability.md)
+- **กล่องเครื่องมือ (Toolbox)**
   - [Note-taking](/toolbox/note-taking.md)
   - [Heuristics](/toolbox/heuristics.md)
   - [Charters](/toolbox/charters.md)
@@ -19,8 +19,8 @@
   - [Mnemonics](/toolbox/mnemonics.md)
   - [Development methodologies](/toolbox/dev-methodologies.md)
   - [Test strategy](/toolbox/test-strategy.md)
-  - [Tools](/toolbox/tester-tools.md)
-- **Test types**
+  - [เครื่องมือสำหรับ QA/Tester](/toolbox/tester-tools.md)
+- **ประเภทของการทดสอบ (Test types)**
   - ~~Test pyramid~~
   - ~~Functional vs Non-functional~~
   - ~~White box vs Black box~~
@@ -29,7 +29,7 @@
   - ~~Acceptance~~
   - ~~Smoke/Sanity~~
   - ~~Regression~~
-- **Tester roles**
+- **ตำแหน่งของ Tester roles**
   - ~~Manual tester~~
   - ~~Exploration tester~~
   - ~~Automation tester~~
@@ -53,11 +53,11 @@
   - ~~Logging~~
 - **Next steps**
   - ~~Staying up to date~~
-- **EXTRA: Test Frameworks**
+- **เพิ่มเติม: Test Frameworks**
   - [Cypress](/toolbox/framework/cypress.md)
   - [Karate](/toolbox/framework/karate.md)
   - [Robot Framework](/toolbox/framework/robot.md)
   - [Playwright](/toolbox/framework/playwright.md)
-- **EXTRA: Notebook**
+- **เพิ่มเติม: Notebook**
   - [User Story Mapping](/notebook/user-story-mapping.md)
   - [Specification by Example](/notebook/specification-by-example.md)
