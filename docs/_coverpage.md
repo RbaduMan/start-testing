@@ -3,7 +3,8 @@
 
 # Start Testing
 
-> A community-driven testing course
+> แหล่งเรียนรู้ Software Testing สำหรับผู้ที่สนใจ
+<!-- > A community-driven testing course -->
 
 - [Markdown](http://commonmark.org/) 🌍 **cross-platform**
 - [GitHub](https://github.com/dialex/start-testing) 🤝 **original content anyone can contribute**
@@ -12,4 +13,4 @@
 
 [เริ่มกันเลย](#syllabus)
 
-<p><img data-origin="linear-gradient(to left bottom, #F0FD37 0%, #ACF260 100%)" alt="color"></p>
+<p><img data-origin="linear-gradient(to left bottom, #7AB8F0 0%, #ECFFE1 100%)" alt="color"></p>
